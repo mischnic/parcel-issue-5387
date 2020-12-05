@@ -1,0 +1,10 @@
+{
+	"source": "index.js",
+	"main": "dist/index.js",
+	"scripts": {
+		"build": "parcel build ."
+	},
+	"dependencies": {
+		"parcel": "^2.0.0-nightly.466"
+	}
+}
